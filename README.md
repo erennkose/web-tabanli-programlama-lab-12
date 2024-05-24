@@ -1,4 +1,4 @@
-# Web Tabanlı Programala Lab-12 Ödevim
+# Web Tabanlı Programlama Lab-12 Ödevim
 ## Ödev Açıklaması
 Web Tabanlı Programlama dersi için MVC mimarisi ile geliştirdiğim URL kısaltma web sitesi.
 ## Yazar
